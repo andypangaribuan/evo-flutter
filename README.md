@@ -1,2 +1,2 @@
-# evo-flutter
-Evo library for Flutter
+# **`evo-lib`**
+flutter library (mobile specific)

@@ -1,0 +1,29 @@
+name: evolib
+description: evo library for flutter (mobile specific)
+version: 1.0.0
+author: andy pangaribuan
+homepage: https://www.boltidea.com
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  rxdart: ^0.24.0
+  intl: ^0.16.0
+  dio: ^3.0.9
+  cached_network_image: ^2.2.0+1
+  flutter_svg: ^0.17.4
+  url_launcher: ^5.4.5
+  encrypt: ^4.0.1
+  uuid: 2.2.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
